@@ -21,8 +21,8 @@
 ### 🔧 Technologies and Tools:
 
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -43,7 +43,7 @@
 ### 📈 Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhmnshmzzz&layout=compact&langs_count=20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhmnshmzzz&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arhmnshmzzz&show_icons=true&theme=blue-green)
 
 
 
