@@ -1,4 +1,4 @@
-## Hello Folks!! 👋
+## Hello Good People!! 👋
 ![](https://komarev.com/ghpvc/?username=arhmnshmzzz&color=blue)
 
 
