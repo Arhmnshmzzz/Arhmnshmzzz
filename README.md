@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning new technologies.
-- 🥅 2022 Goals: I want to improve my skills as a software engineer. 
+- 🥅 2023 Goals: I want to improve my skills as a software engineer. 
 - ⚡ Fun fact: I love to watch tv series.
 
 
