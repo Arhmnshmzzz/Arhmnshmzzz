@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=arhmnshmzzz&color=blue)
 
 
-### 😃 I am Md Abdur Rahman. I'm a web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
+### 😃 I am Md Abdur Rahman. I'm a Software Test Engineer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m currently learning new technologies.
-- 🥅 2023 Goals: I want to improve my skills as a software engineer. 
+- 🥅 2024 Goals: I want to improve my skills as a Software Test Engineer. 
 - ⚡ Fun fact: I love to watch tv series.
 
 
@@ -49,5 +49,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/md-abdur-r-6b42739b
+[linkedin]: https://www.linkedin.com/in/mdabdurrahmann/
 [instagram]: https://www.instagram.com/arhmnshmzzz/
