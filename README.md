@@ -28,16 +28,18 @@
 <!-- ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+![](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white&color=43B02A)
+![](https://img.shields.io/badge/Burp_Suite-%23F16521.svg?style=for-the-badge&logoColor=white&color=F16521)
+![](https://img.shields.io/badge/WebdriverIO-%23EA5906.svg?style=for-the-badge&logo=webdriverio&logoColor=white&color=EA5906)
 ![](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
-![](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
+![](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/JMeter-%23D93F00.svg?style=for-the-badge&logo=apachejmeter&logoColor=white&color=D93F00)
+
 
 
 ### 📈 Git Stats
