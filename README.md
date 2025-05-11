@@ -4,10 +4,10 @@
 
 ### 😃 I am Md Abdur Rahman. I'm an SQA Engineer specializing in both manual and automated testing.
 
-🔭 I’m currently working on test automation projects at my company.
-🌱 I’m learning advanced automation frameworks to enhance my testing efficiency.
-🥅 2025 Goals: Become proficient in security testing for web applications.
-⚡ Fun fact: I love to watch TV series
+- 🔭 I’m currently working on test automation projects at my company.
+- 🌱 I’m learning advanced automation frameworks to enhance my testing efficiency.
+- 🥅 2025 Goals: Become proficient in security testing for web applications.
+- ⚡ Fun fact: I love to watch TV series
 
 
 
