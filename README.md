@@ -2,12 +2,12 @@
 ![](https://komarev.com/ghpvc/?username=arhmnshmzzz&color=blue)
 
 
-### 😃 I am Md Abdur Rahman. I'm a Software Test Engineer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
+### 😃 I am Md Abdur Rahman. I'm an SQA Engineer specializing in both manual and automated testing.
 
-- 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning new technologies.
-- 🥅 2024 Goals: I want to improve my skills as a Software Test Engineer. 
-- ⚡ Fun fact: I love to watch tv series.
+🔭 I’m currently working on test automation projects at my company.
+🌱 I’m learning advanced automation frameworks to enhance my testing efficiency.
+🥅 2025 Goals: Become proficient in security testing for web applications.
+⚡ Fun fact: I love to watch TV series
 
 
 
