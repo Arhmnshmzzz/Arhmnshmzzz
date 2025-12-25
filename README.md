@@ -72,10 +72,11 @@
 
 
 
-### 📈 Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhmnshmzzz&layout=compact&langs_count=20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arhmnshmzzz&show_icons=true&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhmnshmzzz&layout=compact&langs_count=8&theme=blue-green)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhmnshmzzz&show_icons=true&theme=blue-green)
 
 
 
