@@ -74,9 +74,10 @@
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhmnshmzzz&layout=compact&langs_count=8&theme=blue-green)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arhmnshmzzz&layout=compact&langs_count=8)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arhmnshmzzz&show_icons=true&theme=blue-green)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhmnshmzzz&show_icons=true)
+
 
 
 
