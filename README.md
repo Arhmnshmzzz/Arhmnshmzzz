@@ -22,7 +22,7 @@
 ```
 🔍 Currently  →  QA Engineer @ Root Devs
 🏁 Previously →  QA Analyst  @ AnchorBlock
-🎯 2025 Goal  →  Master security testing for web applications
+🎯 2026 Goal  →  Master security testing for web applications
 🌱 Learning   →  Advanced automation frameworks
 ⚡ Fun fact   →  Addicted to TV series
 ```
@@ -94,10 +94,10 @@
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhmnshmzzz&show_icons=true&theme=graywhite&hide_border=true&title_color=C8A96E&icon_color=C8A96E" />
+<!-- <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhmnshmzzz&show_icons=true&theme=graywhite&hide_border=true&title_color=C8A96E&icon_color=C8A96E" />
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arhmnshmzzz&layout=compact&langs_count=8&theme=graywhite&hide_border=true&title_color=C8A96E" />
 
-<br/>
+<br/> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arhmnshmzzz&theme=graywhite&hide_border=true&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E)](https://git.io/streak-stats)
 
