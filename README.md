@@ -69,7 +69,7 @@ _2+ years | Working At Root Devs | Manual & Automation Testing_
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arhmnshmzzz&theme=graywhite&hide_border=true&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E)](https://git.io/streak-stats)
 
-[![Top Langs](https://top-langs-denoised.vercel.app/api/?username=arhmnshmzzz&theme=graywhite&hide_border=true&langs_count=5&ext_size=false&card_width=330)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arhmnshmzzz&theme=graywhite&hide_border=true&card_width=330)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
